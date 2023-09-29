@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_layout_heroes",
+  "info": {
+    "displayName": "Hero"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
